@@ -106,7 +106,7 @@ Multi-camera fusion, PTZ-steerable cameras, V2X vehicle communication, live ambu
 
 ## Team
 
-Krishnaswamy KV (Team Lead) · Monishwar B · Manoranjan VS
+ · Monishwar B · Krishnaswamy KV (Team Lead) . Manoranjan VS
 Chennai Institute of Technology
 
 ---
